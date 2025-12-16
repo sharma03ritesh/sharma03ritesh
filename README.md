@@ -22,10 +22,11 @@
   />
 
   <img
-    src="https://streak-stats.demolab.com?user=sharma03ritesh&theme=dark"
+    src="https://streak-stats.demolab.com?user=sharma03ritesh"
     height="150"
     alt="GitHub streak"
   />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sharma03ritesh" alt="GitHub Streak" /></a>
 </div>
 
 
