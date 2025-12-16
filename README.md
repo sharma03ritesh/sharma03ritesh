@@ -9,11 +9,25 @@
 ###
 
 <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=sharma03ritesh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sharma03ritesh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
-  <!-- <img src="https://streak-stats.demolab.com?user=sharma03ritesh&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  /> -->
-  <img src="https://streak-stats.demolab.com?user=sharma03ritesh&theme=dark" alt="GitHub Streak" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=sharma03ritesh&show_icons=true&include_all_commits=true&count_private=true&theme=dark"
+    height="150"
+    alt="GitHub stats"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=sharma03ritesh&layout=compact&langs_count=5&theme=dark"
+    height="150"
+    alt="Top languages"
+  />
+
+  <img
+    src="https://streak-stats.demolab.com?user=sharma03ritesh&theme=dark"
+    height="150"
+    alt="GitHub streak"
+  />
 </div>
+
 
 ###
 
